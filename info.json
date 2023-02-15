@@ -1,1 +1,22 @@
+{"name":"Etica",
+"tokenSymbol":"ETI",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Etica is a community driven blockchain started in april 2022 which aims to fund open source medical research without intellectual property. All research conducted through Etica is patent-free. Etica blockchain is governed by two crypto currencies. ETI is the currency of the Etica Protocol implemented as a smart contract. EGAZ secures the blockchain and is the 'Eth' Ethereum equivalent of the Etica network.",
+"whitePaperLink":"https://www.eticaprotocol.org/viewwhitepaper",
+"gallery":[],
+"deleted":false,
+"primaryColor":"#659aa5",
+"twitterHandle":"https://twitter.com/eticaprotocol",
+"coingeckoId":"",
+"snapshotId":" ",
+"logo":"https://www.eticaprotocol.org/images/etica-logo-sanstexte.png",
+"telegramLink":"https://t.me/eticaprotocol",
+"discordLink":"",
+"website":"https://www.eticaprotocol.org/",
+"tokenDescription":"",
+"tokenTradeLink":"https://txbit.io/Trade/ETI/USDT",
 
+"tags":["Decentralized funding", "Blockchain protocols", "Publishing","Ecosystems", "Focused Research"]
+  
+}
